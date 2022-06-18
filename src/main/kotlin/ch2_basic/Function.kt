@@ -1,4 +1,4 @@
-package basic
+package ch2_basic
 
 fun main(args: Array<String>) {
     // 함수를 선언할 때 fun 키워드를 사용한다.

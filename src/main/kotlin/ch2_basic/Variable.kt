@@ -1,4 +1,4 @@
-package basic
+package ch2_basic
 
 // 코틀린에서는 변수의 타입 지정을 생략하는 경우가 많다고 함
 val question = "we need to make world better"
